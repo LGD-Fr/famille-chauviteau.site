@@ -27,5 +27,5 @@ BookGitURL = 'https://github.com/LGD-Fr/famille-chauviteau.site'
 
 ContactEMailFile = "/img/courriel.png"
 ContactEMailAlt = "« contact » AROBASE « famille » TRAIT D’UNION « chauviteau » POINT « site »"
-RedirectToCanonical = false
-CanonicalBaseURL = "https://famille-chauviteau.site"
+RedirectToCanonical = true
+CanonicalBaseURL = "https://famille-chauviteau.fr"
